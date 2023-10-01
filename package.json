@@ -1,0 +1,36 @@
+{
+  "name": "namasthe_react",
+  "version": "1.0.0",
+  "description": "Namasthe React by Achyuta Kalyan",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalyan-achyuta/namasthe-react.git"
+  },
+  "keywords": [
+    "react",
+    "html",
+    "css"
+  ],
+  "author": "Achyuta kalyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalyan-achyuta/namasthe-react/issues"
+  },
+  "homepage": "https://github.com/kalyan-achyuta/namasthe-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
